@@ -30,6 +30,15 @@ function App() {
         <p>2월 18일 발행</p>
         <hr />
       </div>
+      <div className="날짜별_내가_한_일">
+        <h3>DID LISTS</h3>
+        <ul>
+          <h4 className="날짜">2022년 06월 15일</h4>
+          <ul>
+            <li>날짜별 내가 한 일</li>
+          </ul>
+        </ul>
+      </div>
     </div>
   );
 }
